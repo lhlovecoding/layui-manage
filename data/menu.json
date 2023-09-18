@@ -1,0 +1,121 @@
+{
+  "code": 200,
+  "msg": "成功",
+  "data": [
+    {
+      "title": "首页",
+      "icon": "icon-shouye",
+      "children": [
+        {
+          "title": "仪表盘",
+          "icon": "icon-shijianxuliebianhua",
+          "url": "home.html"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-wendang",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-shipin",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        }
+      ]
+    },
+    {
+      "title": "商品",
+      "icon": "icon-goods-copy",
+      "children": [
+        {
+          "title": "商品列表",
+          "icon": "icon-liebiao",
+          "url": "home.html"
+        },
+        {
+          "title": "添加商品",
+          "icon": "icon-tianjia",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        },
+        {
+          "title": "商品分类",
+          "icon": "icon-leimupinleifenleileibie2",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        },
+        {
+          "title": "商品类型",
+          "icon": "icon-leixing",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        },
+        {
+          "title": "品牌管理",
+          "icon": "icon-pinpaitemai-tianchong",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        }
+      ]
+    },
+    {
+      "title": "首页",
+      "icon": "icon-shouye",
+      "children": [
+        {
+          "title": "仪表盘",
+          "icon": "icon-shijianxuliebianhua",
+          "url": "home.html"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-wendang",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-shipin",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        }
+      ]
+    },
+    {
+      "title": "首页",
+      "icon": "icon-shouye",
+      "children": [
+        {
+          "title": "仪表盘",
+          "icon": "icon-shijianxuliebianhua",
+          "url": "home.html"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-wendang",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-shipin",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        }
+      ]
+    },
+    {
+      "title": "首页",
+      "icon": "icon-shouye",
+      "children": [
+        {
+          "title": "仪表盘",
+          "icon": "icon-shijianxuliebianhua",
+          "url": "home.html"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-wendang",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        },
+        {
+          "title": "学习教程",
+          "icon": "icon-shipin",
+          "url": "https://doc.zzgoodqc.cn/#%E5%9B%9B%E6%AE%B5%E8%AF%BE%E7%A8%8B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  :root {
+    --theme-color: #409eff;
+  }
+  #box {
+    width: 100vw;
+    height: 100vh;
+    background-color: #fff;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .bg {
+    width: 100%;
+    background-color: var(--theme-color);
+    height: 30vh;
+  }
+  .login-box {
+    width: 25vw;
+    height: 55vh;
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-top: 15px solid var(--theme-color);
+    border-radius: 5px;
+    box-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  }
+  .bg img {
+    width: 100%;
+    height: 100%;
+  }
+  .icon-shangcheng:before {
+    color: var(--theme-color);
+    font-size: 67px;
+    content: "\e6b3";
+  }
+  .login-box {
+    text-align: center;
+  }
+  .login-box i {
+    display: block;
+    margin: 0 auto;
+    margin-top: 2vh;
+  }
+  .login-box h2 {
+    color: var(--theme-color);
+  }
+
+  .demo-login-container {
+    width: 320px;
+    margin: 21px auto 0;
+  }
+  .layui-icon {
+    position: relative;
+    display: inline-block;
+    margin: 0 2px;
+    top: 2px;
+    font-size: 26px;
+  }
+  .layui-icon-username,
+  .layui-icon-password,
+  .layui-icon-clear,
+  .layui-icon-eye-invisible {
+    top: -15px;
+  }
+  .login-btn {
+    margin-top: 40px;
+  }
+  .login-con {
+    margin-top: 60px;
+  }
